@@ -1,5 +1,3 @@
-
-
 -- if not getgenv().directory then
 --     game.Players.LocalPlayer:Kick("Script directory was not found!\nNOTE: THE SERVER MAY BE DOWN \nplease dm 1catlol if you have entered yours correctly")
 --     wait(3)
